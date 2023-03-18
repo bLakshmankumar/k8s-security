@@ -1,10 +1,12 @@
 # How to Hack Kubernetes (and How to Protect It) -:
 ===================================================
-       Kubernetes is a valuable resource and a leading container management system in development pipelines across the world, but it’s not exempt from malicious attacks. Using Kubernetes requires a deep understanding of Kubernetes’ environment—including the different vulnerabilities you can be exposed to while creating, deploying, or running applications in your clusters.
+    > Kubernetes is a valuable resource and a leading container management system in development pipelines across the world, but it’s not exempt from malicious attacks. 
+    
+    > Using Kubernetes requires a deep understanding of Kubernetes’ environment—including the different vulnerabilities you can be exposed to while creating, deploying, or running applications in your clusters.
 
-       Since your Kubernetes cluster is likely one of your most valuable cloud resources, it needs to be protected. 
-Kubernetes’ security addresses the safety of your cloud, application clusters, containers, apps and code. 
-Although Kubernetes provides inherent security advantages, bolstering your defensive tactics is crucial to protecting your system against hackers and other cybersecurity threats.
+    > Since your Kubernetes cluster is likely one of your most valuable cloud resources, it needs to be protected. Kubernetes’ security addresses the safety of your cloud, application clusters, containers, apps and code. 
+    
+    > Although Kubernetes provides inherent security advantages, bolstering your defensive tactics is crucial to protecting your system against hackers and other cybersecurity threats.
 
 # Why do you need defense tactics -:
 ==================================
