@@ -56,4 +56,5 @@
    > regularly rotating encryption keys and certificates -:
    --------------------------------------------------------
      > One of the best security practices to protect your Kubernetes against malicious actors is regularly rotating encryption keys and certificates.
-     >  Kubernetes enables encryption keys and certificate rotation to automatically generate a new key and request a new certificate from the API server as the current certificate approaches expiration. Once the new certificate is available, it will authenticate connections to the Kubernetes API. This process saves time by ensuring the user doesn’t need to frequently rotate keys and certificates.
+     > Kubernetes enables encryption keys and certificate rotation to automatically generate a new key and request a new certificate from the API server as the current certificate approaches expiration.
+     > Once the new certificate is available, it will authenticate connections to the Kubernetes API. This process saves time by ensuring the user doesn’t need to frequently rotate keys and certificates.
